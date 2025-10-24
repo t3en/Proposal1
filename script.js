@@ -9,17 +9,17 @@ const steps = [
   `,
   () => `
     <h2>Who You Are To Me</h2>
-    <p>You’re kind, funny, deeply spiritual, a bit of a bully 😅... and totally unforgettable.</p>
+    <p>You’re kind, funny, deeply spiritual, a bit of a bully 😅... and totally unforgettable, lets not forget my comedian.</p>
     <p>You make me feel like the most seen person in the room.</p>
     <p>You're the calm in my chaos, the light when I overthink, and the laughter when life gets too heavy.</p>
-    <p>You pray with passion, love with gentleness, and carry yourself with strength, a strength so soft it humbles me.</p>
+    <p>You pray with passion, love with gentleness, and carry yourself with strength, a strength so soft it humbles me, my little hercules.</p>
     <p>I didn’t just fall for your smile or your laugh, I fell for your heart, your mind, your spirit, and the way you walk through life like you were born to love and be loved.</p>
     <p>There’s a warmth in you that feels like home, a safety that settles my soul, and a fire that inspires me to grow closer to God and closer to you.</p>
     <button onclick="nextStep()">Tell me more...</button>
   `,
   () => `
     <h2>Our Moments</h2>
-    <p>I still remember when we first started talking, how easy it felt, like our hearts had already known each other.</p>
+    <p>I still remember when we first started talking seriously, how easy it felt, like our hearts had already known each other.</p>
     <p>I remember the first time you teased me, and I couldn’t stop smiling like an idiot. I didn’t know it then, but I was already falling.</p>
     <p>The way you speak about God with so much reverence... it lit something inside me.</p>
     <p>There were nights we laughed until our cheeks hurt. Days where you comforted me without even realizing it.</p>
@@ -33,10 +33,10 @@ const steps = [
     <h2>A Bit About You</h2>
      <p>You’re the kind of woman people write prayers about.</p>
     <p>You’re a women of God, not just in routine, but in how you walk, talk, and carry yourself with grace and reverence.</p>
-    <p>You may not read a lot, but when it’s the Bible? You show up, and that speaks volumes about your heart.</p>
+    <p>The way you show up when it comes to the Bible speaks volumes about your heart.</p>
     <p>The way you talk about God, it’s not performative. It’s real. Gentle. Rooted. It draws me in closer, to Him, and to you.</p>
     <p>Your words have this effect on me... sometimes you’re being deep and spiritual, other times you’re playfully roasting me, and both leave me smiling like an idiot.</p>
-    <p>Your sarcasm? Unmatched. It’s a kind of love language at this point, the way you tease me like you’ve known me forever.</p>
+    <p>Your jokes? Unmatched. It’s a kind of love language at this point, the way you tease me like you’ve known me forever.</p>
     <p>But it’s how you *carry yourself* that really gets me, the quiet confidence, the deep compassion, the way you move through the world like your spirit was kissed by heaven.</p>
     <div class="quote">"You’re the kind of woman that makes a man want to be better, spiritually, emotionally, and forever."</div>
     <p>You are soft, strong, silly, and sacred, all at once. And I thank God every single day that I get to witness you.</p>
